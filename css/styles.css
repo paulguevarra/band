@@ -1,0 +1,20 @@
+img.alpha{
+  float: right;
+  height: 200px;
+  width: 200px;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+.sidebar {
+  width: 10%;
+  float: left;
+  background-color: grey;
+  margin-right: 5px;
+}
+.column {
+  width: 300px;
+  float: right;
+}
